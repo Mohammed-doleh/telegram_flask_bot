@@ -96,6 +96,13 @@ Firebase Firestore → updates 'Gate' collection
 
 ---
 
+## 🔗 Related Projects
+
+- **Flutter Mobile App** → [roads](https://github.com/Mohammed-doleh/roads)
+  The Flutter app that displays the checkpoint statuses updated by this bot.
+
+---
+
 ## 📄 License
 
 MIT License — feel free to use and modify.
